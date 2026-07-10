@@ -36,6 +36,7 @@ This project was created to practise Python programming fundamentals, working wi
 ### Menu Options
 
 | Option | Description |
+|---------|-------------|
 | `p` | View the product list |
 | `i` | View available inventory |
 | `Enter` | Add an item using its Product ID |
